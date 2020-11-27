@@ -23,7 +23,7 @@ currentColour = black
 // Setup - Sprite.
 
 // We could use primitives (`drawBox()`) but we'll use sprites. I like sprites.
-img = createImage(50, 50 IMAGE_RGB, false)
+img = createImage(50, 50, IMAGE_RGB, false)
 logo = createSprite()
 setSpriteImage(logo, img)
 setSpriteLocation(logo, gWidth() / 2, gHeight() / 2)
@@ -51,7 +51,7 @@ function changeColour()
     // Feels like there should be a tidier way of doing this but my brain's not working!
     newColour = { rnd(255) / 255, rnd(255) / 255, rnd(255) / 255, 1 }	// We could randomise the alpha channel if we wanted, but we wont
     while newColour == currentColour loop
-        newColour = { rnd(255) / 255, rnd(255) / 255, rnd(255) / 255, 1 }	// We could randomise the alpha channel if we wanted, but we wont
+        newColour = { rnd(255) / 255, rnd(255) / 255, rnd(255) / 255, 1 }
     repeat
     
     // Now change the colour of the image - there are other ways to do this but this way demos
