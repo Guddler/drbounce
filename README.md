@@ -1,9 +1,16 @@
 # drbounce
 DragonRuby DVD Bounce challenge
+===
 
-**Fuze4NintendoSwitch download ID NVD9XMNDXE**
+**[Fuze4NintendoSwitch](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/FUZE4-Nintendo-Switch-1626336.html) download ID NVD9XMNDXE**
 
-**NB: This is just a bit of fun really.** This doesn't meet all of the challenge criteria mostly due to Fuze for Nintendo Switch (more accurately the Switch itself) being a closed ecosystem. I just thought it would be trivial to do in Fuze, so I sat down and did it. I also already have a Pro DragonRuby subscription. For this year at least.
+**NB: This is just a bit of fun really.** This doesn't meet all of the challenge criteria mostly due to Fuze for Nintendo Switch (more accurately the Switch itself) being a closed ecosystem. I just thought it would be trivial to do in Fuze, so I sat down and did it. I also already have a Pro DragonRuby subscription. For this year at least. So it's really a "Why? Because I could" type thing.
+
+Links:
+-
+[Fuze4 Nintendo Switch](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/FUZE4-Nintendo-Switch-1626336.html)
+
+[Fuze Arena](https://fuzearena.com) - Hosts the Fuze Community and the product help pages amoung other things.
 
 Requirements
 ---
@@ -19,7 +26,7 @@ SO, here are the original requirements from Discord:
 7. The exe/binary icon for the game should be a square with the color of your choosing.
 8. Release your game to Itch.io (PC, Mac, Linux, Web); and for extra credit Test Flight (iOS); and Google Play Beta Testing (Android). If you can't deploy to all platforms, make note of that in the readme.
 
-Clearly we cannot support items 6, 7 or 8 but as a Brucy Bonus, if you own Fuze4NS use the download code above and you can download the project and play about with it, modify it, frankly, do what you want with it!
+Clearly we cannot support items 6, 7 or 8 but as a Brucy Bonus, if you own [Fuze4NS](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/FUZE4-Nintendo-Switch-1626336.html) use the download code above and you can download the project and play about with it, modify it, frankly, do what you want with it!
 
 Item 5 has been implemented as pressing 'A' on the right JoyCon of player 1. A lot of Fuze users WILL have a keyboard but it's far from guaranteed. Also when FuzePlayer comes out, those people will be even less likely to have a keyboard hooked up and yet could still use the download code above.
 
@@ -29,7 +36,7 @@ We then get onto the items that were to be included into the README:
 Originally I think it's in the low 70's including comments, but the version here on GitHub has a tonne of added comment so people can see how it was done.
 
 **How many different game engine concepts (eg: physics bodies, matrices, events, transforms, camera) did you have to be knowledgeable of before you could build your implementation?**
-Not many really. It helps that I was already intimate with Fuze but I guess if you were completely new then you would need to know about the main game loop, sprites, controls and draw targets (to do it the way I did). You'd get all of that, except maybe the draw targets, just from a quick run through the Tutorials on FuzeArena however.
+Not many really. It helps that I was already intimate with Fuze but I guess if you were completely new then you would need to know about the main game loop, sprites, controls and draw targets (to do it the way I did). You'd get all of that, except maybe the draw targets, just from a quick run through the Tutorials on [FuzeArena](https://fuzearena.com) however.
 
 **Did you have to use classes, inheritance, structs or any other overly complex data structures? Why does the engine you are using require these complexities for such a trivial game?**
 No. Fuze supports structs but I didn't use them. I could have done to keep all my variable together but it would have been overkill here.
