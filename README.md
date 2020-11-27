@@ -2,7 +2,7 @@
 DragonRuby DVD Bounce challenge
 ===
 
-**[Fuze4NintendoSwitch](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/FUZE4-Nintendo-Switch-1626336.html) download ID NVD9XMNDXE**
+**[Fuze4NintendoSwitch](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/FUZE4-Nintendo-Switch-1626336.html) download ID: NVD9XMNDXE**
 
 **NB: This is just a bit of fun really.** This doesn't meet all of the challenge criteria mostly due to Fuze for Nintendo Switch (more accurately the Switch itself) being a closed ecosystem. I just thought it would be trivial to do in Fuze, so I sat down and did it. I also already have a Pro DragonRuby subscription. For this year at least. So it's really a "Why? Because I could" type thing.
 
